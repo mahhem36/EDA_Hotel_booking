@@ -1,5 +1,6 @@
 # EDA_Hotel_booking
 **Problem Statement:**
+
 The objective of this project is to perform an exploratory data analysis (EDA) on a hotel booking dataset and gain insights into various aspects of hotel bookings. The dataset contains information about bookings made at hotels, including features such as booking dates, guest demographics, room types, and booking status.
 
 # Datasets Hotel_booking
@@ -46,19 +47,31 @@ Null values in column country were replaced by 'unknown'.
 
 # Univariate Analysis
 Performed univariate analysis and made following conclusions:
+
 1]City Hotel is most preffered hotel by guests. Thus city hotels has maximum bookings.
+
 2]Repeated guests are very few which only 3.2 %.
+
 3]Guests use different channels for making bookings out of which most preferred way is TA/TO.
+
 4] Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
+
 5]July- August are the most busier and profitable months for both of hotels.
 
 # Bivariate and Multivariate Analysis
+
 1]City hotel has the highest ADR. That means city hotels are generating more revenues than the resort hotels. More the ADR more is the revenue
+
 2] Both hotels have very small percentage that customer will repeat, but Resort hotel has slightly higher repeat % than City Hotel.
+
 3] Moslty bookings are done by couples.
+
 4]Resort hotels has slightly high avg lead time. That means customers plan their trips very early.
+
 5]'Direct' and 'TA/TO' has almost equally contributed in adr in both type of hotels i.e. 'City Hotel' and 'Resort Hotel'.
+
 6]GDS has highly contributed in adr in 'City Hotel' type
+
 7]GDS needs to increase Resort Hotel bookings.
 
 # conclusion:
@@ -88,8 +101,11 @@ Performed univariate analysis and made following conclusions:
 # Challenges
 
 (1) There was a lot of duplicate data.
+
 (2) Data was present in wrong datatype format.
+
 (3) Choosing appropriate visualization techniques to use was difficult.
+
 (4) A lot of null values were there in the dataset.
 
 
